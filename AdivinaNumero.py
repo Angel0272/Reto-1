@@ -1,5 +1,4 @@
-# Importamos la biblioteca random para generar números aleatorios
-import random
+import random # Importamos la biblioteca random para generar números aleatorios
 
 # Clase del juego
 class AdivinaNumero:

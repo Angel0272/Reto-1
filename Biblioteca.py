@@ -1,4 +1,4 @@
-class Biblioteca:
+class Biblioteca: #Se crea la clase biblioteca
 
     # Constructor
     def __init__(self):
@@ -171,3 +171,4 @@ if __name__ == '__main__':
     sistema = Biblioteca()
     sistema.Menu()
     #Edite este codigo
+    #Termine los print

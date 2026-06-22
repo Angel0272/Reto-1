@@ -20,7 +20,7 @@ class AdivinaNumero:
     def Jugar(self):
 
         print("================================")
-        print("    JUEGO ADIVINA EL NUMERO  ")
+        print("    JUEGO ADIVINA EL NUMERO   ")
         print("================================")
         print("He pensado un numero entre 1 y 100")
         print(f"Tienes {self.maxIntentos} intentos para adivinarlo")
@@ -69,9 +69,11 @@ class AdivinaNumero:
 
 # Punto de entrada del programa
 if __name__ == '__main__':
+
     # Crea un objeto de la clase
     juego = AdivinaNumero()
 
     # Ejecuta el juego
     juego.Jugar()
     #Ya termine el codigo
+    #Se hicieron los cambios y cometarios

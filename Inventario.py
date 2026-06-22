@@ -128,7 +128,7 @@ class Inventario:
             # Opcion para salir
             elif opcion == 4:
 
-                print("Saliendo del sistema...")
+                print("Gracias por usar el codigo, adiosss!!!...")
 
             # Si la opcion no existe
             else:
